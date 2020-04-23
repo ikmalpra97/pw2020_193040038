@@ -78,7 +78,7 @@ function ubah($data)
                 tahun_terbit = '$tahun_terbit',
                 isbn = '$isbn',
                 foto = '$foto',
-                harga = '$harga',
+                harga = '$harga'
                 WHERE id = '$id'
                 ";
 
