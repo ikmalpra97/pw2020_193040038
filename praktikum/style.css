@@ -1,0 +1,148 @@
+body {
+	background: linear-gradient(45deg, #36b5b0,#da2d2d);
+}
+
+a {
+	text-decoration: none;
+	color: white;
+}
+
+.kotak1 {
+	width: 200px;
+	height: 200px;
+	background-color: #000033;
+	line-height: 150px;
+	text-align: center;
+	color: white;
+	font-family: Stencil std;
+	font-size: 20px;
+	position: fixed;
+	top: 250px;
+	left: 100px;
+	transition: all 2s ease;
+	-moz- transition: all 2s ease;
+	-webkit- transition: all 2s ease;
+
+}
+
+.kotak2 {
+	width: 200px;
+	height: 200px;
+	background-color: #000033;
+	line-height: 150px;
+	text-align: center;
+	color: white;
+	font-family: Stencil std;
+	font-size: 20px;
+	position: fixed;
+	top: 250px;
+	left: 350px;
+	transition: all 2s ease;
+	-moz- transition: all 2s ease;
+	-webkit- transition: all 2s ease;
+
+}
+
+.kotak3 {
+	width: 200px;
+	height: 200px;
+	background-color: #000033;
+	line-height: 150px;
+	text-align: center;
+	color: white;
+	font-family: Stencil std;
+	font-size: 20px;
+	position: fixed;
+	top: 250px;
+	left: 600px;
+	transition: all 2s ease;
+	-moz- transition: all 2s ease;
+	-webkit- transition: all 2s ease;
+
+}
+
+.kotak4 {
+	width: 200px;
+	height: 200px;
+	background-color: #000033;
+	line-height: 150px;
+	text-align: center;
+	color: white;
+	font-family: Stencil std;
+	font-size: 20px;
+	position: fixed;
+	top: 250px;
+	left: 850px;
+	transition: all 2s ease;
+	-moz- transition: all 2s ease;
+	-webkit- transition: all 2s ease;
+
+}
+
+.kotak5 {
+	width: 200px;
+	height: 200px;
+	background-color: #000033;
+	line-height: 150px;
+	text-align: center;
+	color: white;
+	font-family: Stencil std;
+	font-size: 20px;
+	position: fixed;
+	top: 250px;
+	left: 1100px;
+	transition: all 2s ease;
+	-moz- transition: all 2s ease;
+	-webkit- transition: all 2s ease;
+
+}
+
+.kotak1:hover {
+	border-radius: 50px;
+	box-shadow: 0 0 10px rgba(0,0,0,1);
+	-moz- box-shadow: 0 0 10px rgba(0,0,0,1);
+	-webkit- box-shadow: 0 0 10px rgba(0,0,0,1);
+	transform: rotate(360deg);
+	-moz- transform: rotate(360deg);
+	-webkit- transform: rotate(360deg);
+}
+
+.kotak2:hover {
+	border-radius: 50px;
+	box-shadow: 0 0 10px rgba(0,0,0,1);
+	-moz- box-shadow: 0 0 10px rgba(0,0,0,1);
+	-webkit- box-shadow: 0 0 10px rgba(0,0,0,1);
+	transform: rotate(360deg);
+	-moz- transform: rotate(360deg);
+	-webkit- transform: rotate(360deg);
+}
+
+.kotak3:hover {
+	border-radius: 50px;
+	box-shadow: 0 0 10px rgba(0,0,0,1);
+	-moz- box-shadow: 0 0 10px rgba(0,0,0,1);
+	-webkit- box-shadow: 0 0 10px rgba(0,0,0,1);
+	transform: rotate(360deg);
+	-moz- transform: rotate(360deg);
+	-webkit- transform: rotate(360deg);
+}
+
+.kotak4:hover {
+	border-radius: 50px;
+	box-shadow: 0 0 10px rgba(0,0,0,1);
+	-moz- box-shadow: 0 0 10px rgba(0,0,0,1);
+	-webkit- box-shadow: 0 0 10px rgba(0,0,0,1);
+	transform: rotate(360deg);
+	-moz- transform: rotate(360deg);
+	-webkit- transform: rotate(360deg);
+}
+
+.kotak5:hover {
+	border-radius: 50px;
+	box-shadow: 0 0 10px rgba(0,0,0,1);
+	-moz- box-shadow: 0 0 10px rgba(0,0,0,1);
+	-webkit- box-shadow: 0 0 10px rgba(0,0,0,1);
+	transform: rotate(360deg);
+	-moz- transform: rotate(360deg);
+	-webkit- transform: rotate(360deg);
+}

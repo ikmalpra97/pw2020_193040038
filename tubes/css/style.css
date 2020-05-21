@@ -1,0 +1,51 @@
+.slider h3,
+.slider h5 {
+	text-shadow: 1px 1px 3px rgba(0,0,0,0.5);
+}
+
+.pictlogo {
+	width: 60px !important;
+}
+
+footer {
+	padding: 20px 0;
+}
+
+.sosmed {
+	margin: 5px;
+	border-radius: 30%;
+	width: 50px;
+	height: 50px;
+	line-height: 50px;
+}
+
+.link {
+	color: white;
+}
+
+.link:hover {
+	color: blue;
+	text-decoration: none;
+}
+
+.aquasiafooter {
+	width: 250px;
+}
+
+.cari {
+	border-radius: 10px !important;
+}
+
+.book {
+	margin-top: -85px !important;
+	margin-left: 70px !important;
+}
+
+.tombol-kembali {
+	margin-top: 15px !important;
+	margin-bottom: 15px !important;
+}
+
+.kaca {
+	margin-top: 10px !important;
+}
